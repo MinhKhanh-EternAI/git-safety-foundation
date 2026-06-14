@@ -1,0 +1,41 @@
+# Environment & secrets - KHÔNG bao giờ commit lên GitHub
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+config/secrets.yml
+secrets/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Build output
+dist/
+build/
+*.exe
+*.dll
