@@ -68,7 +68,7 @@ Khi làm việc với AI để sinh code, tôi sẽ áp dụng Git theo quy trì
 5. **Tạo Pull Request** để mentor hoặc đồng đội review code AI trước khi merge vào main
 6. **Dùng `git log`** để theo dõi lịch sử — biết chính xác AI đã thay đổi gì, khi nào
 
-> Git là cầu nối an toàn giữa AI và codebase của bạn.
+> Git là cầu nối an toàn giữa AI và codebase — bảo vệ sự ổn định của hệ thống production trước tốc độ sinh code của AI.
 
 ## Thông tin học viên
 
